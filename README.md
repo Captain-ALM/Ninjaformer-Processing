@@ -8,3 +8,7 @@ stay tuned for an update to make the game playable *(16th :) )*.
 Yeah, I was way too ambitious :(
 
 And I seriously need a rest.
+
+Programmed by Captain ALM (Alfred Manville) under the BSD-3-Clause License
+
+City Inter User Name: adck924
